@@ -1,7 +1,4 @@
 <!-- 🎨 Banner -->
-<p align="center">
-  <img src="https://github.com/amiragharb/amiragharb/blob/main/banner.png" alt="Welcome Banner" />
-</p>
 
 # 👋 Hi, I'm Amira Gharbi  
 
