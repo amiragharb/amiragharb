@@ -1,70 +1,147 @@
-<!-- 🎨 Banner -->
+<div align="center">
 
-# 👋 Hi, I'm Amira Gharbi  
+# 👋 Hi, I'm Amira Gharbi
 
-🎯 **AI Enthusiast | Full-Stack & Mobile Developer**  
-💻 Passionate about AI-driven and scalable applications  
-🌍 Based in Tunisia | Fluent in English, French & Arabic  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full-Stack+%26+Mobile+Developer;Building+Intelligent+Applications" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Development-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Tunisia%20🇹🇳-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-EN%20|%20FR%20|%20AR-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="mailto:amira.gharbi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amira-gharbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amiragharb"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Computer Engineering Student at ESPRIT, Tunisia**  
-  3rd Year — *Applied AI & Mobile Development*
-- 🤖 Specialized in **Artificial Intelligence**, **LLMs**, and **Mobile App Engineering**
-- 🧠 Experienced in **AI model integration**, **speech APIs**, and **LLM-based assistants**
-- 🧩 Strong background in **Flutter**, **Node.js**, **TypeScript**, and **React Native**
-- ✨ Passionate about creating **intelligent**, **user-centered**, and **beautiful** mobile apps
+
+```typescript
+const amira = {
+    education: "Computer Engineering @ ESPRIT, Tunisia (3rd Year)",
+    specialization: ["Artificial Intelligence", "Mobile Development", "LLMs"],
+    passion: "Creating intelligent, user-centered, and beautiful mobile apps",
+    currentFocus: ["AI Model Integration", "Speech APIs", "LLM-based Assistants"],
+    location: "Tunisia 🌍",
+    languages: ["English", "French", "Arabic"]
+};
+```
 
 ---
 
 ## 💼 Professional Experience
 
-### 💡 **Mobile Developer Intern — IITSpark, Egypt (Jul–Oct 2025)**
-AI-powered mobile app *eMart* generating personalized e-commerce stores.  
-🛠️ *Tech:* Flutter (MVVM), Node.js, TypeScript, Azure DB, Firebase, CI/CD  
+### 💡 Mobile Developer Intern | **IITSpark** 🇪🇬
+**Jul 2025 - Oct 2025** | *Remote*
 
-### 🎨 **Frontend Developer Intern — ExypnoTech, Tunisia (Jul–Aug 2024)**
-Contributed to frontend development and UI/UX design improvements.  
-🛠️ *Tech:* React, Firebase, Figma  
+🛍️ **eMart** - AI-powered mobile app generating personalized e-commerce stores
+- Implemented MVVM architecture with Flutter for scalable codebase
+- Built RESTful APIs using Node.js & TypeScript
+- Integrated Azure DB & Firebase for real-time data sync
+- Set up CI/CD pipelines for automated deployments
 
-### 🤖 **AI Developer Intern — PROXYM-IT, Tunisia (Jul–Aug 2023)**
-Designed and integrated an **AI chatbot** in a banking app.  
-🛠️ *Tech:* React, Firebase, AI API  
-
----
-
-## 🧠 Academic & Professional Projects
-
-- 🛍️ **eMart** — *AI-Powered Store Generator* (2025)  
-  AI mobile app for personalized e-commerce.  
-  *Tech:* Flutter (MVVM), Node.js, TypeScript, Azure DB, Firebase, CI/CD  
-
-- 🎫 **EgyCoPt** — *Event Booking App* (2025)  
-  Mobile app for booking Christian events in Egypt.  
-  *Tech:* Flutter (MVVM), Firebase, Azure DB, Figma  
-
-- 🧩 **AlzMind** — *AI Companion for Alzheimer’s* (2025)  
-  3D avatar, voice assistant, GPS tracking & caregiver communication.  
-  *Tech:* Flutter, TypeScript, MongoDB, Firebase, AI API  
-
-- 💞 **Cosmia** — *Astrology-Based Dating App* (2024)  
-  Secure authentication, facial recognition, real-time backend.  
-  *Tech:* Flutter, iOS, Android, MongoDB, Firebase, AI API  
-
-- 🍽️ **ChoubikLoubik** — *AI Restaurant Reservation (Top 2)* (2024)  
-  Voice interaction, chatbot & VR training module.  
-  *Tech:* Symfony, XAMPP, Firebase, Unity (VR), AI API  
+**Tech Stack:** `Flutter` `Node.js` `TypeScript` `Azure DB` `Firebase` `CI/CD`
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🎨 Frontend Developer Intern | **ExypnoTech** 🇹🇳
+**Jul 2024 - Aug 2024**
 
-### 💬 Languages
+- Enhanced frontend performance and UI/UX design
+- Collaborated with design team using Figma
+- Implemented responsive components with React
+
+**Tech Stack:** `React` `Firebase` `Figma`
+
+---
+
+### 🤖 AI Developer Intern | **PROXYM-IT** 🇹🇳
+**Jul 2023 - Aug 2023**
+
+- Designed and integrated an **AI chatbot** for banking applications
+- Implemented conversational AI with natural language processing
+- Connected chatbot to Firebase backend for real-time responses
+
+**Tech Stack:** `React` `Firebase` `AI API`
+
+---
+
+## 🧠 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ eMart
+**AI-Powered Store Generator**
+
+AI mobile app that creates personalized e-commerce stores using machine learning algorithms.
+
+**Tech:** Flutter (MVVM), Node.js, TypeScript, Azure DB, Firebase, CI/CD
+
+</td>
+<td width="50%">
+
+### 🎫 EgyCoPt
+**Event Booking Platform**
+
+Mobile application for discovering and booking Christian events across Egypt.
+
+**Tech:** Flutter (MVVM), Firebase, Azure DB, Figma
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧩 AlzMind
+**AI Companion for Alzheimer's**
+
+Comprehensive care solution with 3D avatar, voice assistant, GPS tracking, and caregiver communication.
+
+**Tech:** Flutter, TypeScript, MongoDB, Firebase, AI API
+
+</td>
+<td width="50%">
+
+### 💞 Cosmia
+**Astrology-Based Dating App**
+
+Dating platform with secure authentication, facial recognition, and real-time matching.
+
+**Tech:** Flutter, iOS, Android, MongoDB, Firebase, AI API
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🍽️ ChoubikLoubik - **🏆 Top 2 Winner**
+**AI Restaurant Reservation System**
+
+Innovative platform with voice interaction, intelligent chatbot, and VR training module for staff.
+
+**Tech:** Symfony, XAMPP, Firebase, Unity (VR), AI API
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -76,7 +153,7 @@ Designed and integrated an **AI chatbot** in a banking app.
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🗃️ Databases
+### 🗃️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -90,21 +167,39 @@ Designed and integrated an **AI chatbot** in a banking app.
 
 ---
 
-## 📜 Certifications
-🏅 NVIDIA Deep Learning — *(In Progress)*  
-🏅 GoMyCode Deep Learning — *(In Progress)*  
-🏅 French B1 & B2 — *Institut Français de Tunisie*
+## 📜 Certifications & Learning
+
+🏅 **NVIDIA Deep Learning** - *In Progress*  
+🏅 **GoMyCode Deep Learning** - *In Progress*  
+🏅 **French B1 & B2** - Institut Français de Tunisie
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amira.gharbi@esprit.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amira-gharbi)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amiragharb)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amiragharb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiragharb&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiragharb&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
+<div align="center">
+
+### 💭 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-⭐️ From [Amira Gharbi](https://github.com/amiragharb)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=amiragharb&color=00D9FF&style=for-the-badge)
+
+---
+
+⭐️ **From [Amira Gharbi](https://github.com/amiragharb)** | 💌 Open to collaboration opportunities!
+
+</div>
