@@ -108,8 +108,6 @@ Designed and integrated an **AI chatbot** in a banking app.
 
 ---
 
-## 🐍 GitHub Snake Game
-![Snake animation](https://github.com/amiragharb/amiragharb/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ⭐️ From [Amira Gharbi](https://github.com/amiragharb)
