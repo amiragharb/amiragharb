@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✈️ Amira Gharbi
+<img src="name-board.svg" width="100%" alt="Amira Gharbi" />
 
 **Computer Science Engineer · iOS · Flutter · AI**<br>
 <sub>From Tunisia 🇹🇳 &nbsp;→&nbsp; via Egypt 🇪🇬 &nbsp;→&nbsp; now in Germany 🇩🇪</sub>
