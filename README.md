@@ -1,74 +1,155 @@
 <div align="center">
 
-# 👋 Hi, I'm Amira Gharbi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:E70013&height=230&section=header&text=Amira%20Gharbi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineer%20%E2%80%A2%20iOS%20%C2%B7%20Flutter%20%C2%B7%20AI&descAlignY=57&descSize=19" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full-Stack+%26+Mobile+Developer;Building+Intelligent+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Amira!;Computer+Science+Engineer;iOS+%26+Flutter+Developer;Bringing+AI+into+Banking+Apps;Tunisia+%E2%86%92+Egypt+%E2%86%92+Germany" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Development-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Based%20in-Tunisia%20🇹🇳-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-EN%20|%20FR%20|%20AR-blue?style=for-the-badge" />
+<p>
+  <img src="https://img.shields.io/badge/📍_Based_in-Marburg,_Germany_🇩🇪-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Studying_at-Philipps_University_of_Marburg-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_From-Tunisia_🇹🇳-E70013?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:amira.gharbi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/amira-gharbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amira-gharbi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/amiragharb"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<sub>🎓 National Engineering Degree 2026 &nbsp;•&nbsp; 🏦 Backbase Launchpad ✅ &nbsp;•&nbsp; 🟢 NVIDIA Deep Learning Prep ✅ &nbsp;•&nbsp; 🏆 Top 2 — ChoubikLoubik</sub>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-```typescript
-const amira = {
-    education: "Computer Engineering @ ESPRIT, Tunisia (3rd Year)",
-    specialization: ["Artificial Intelligence", "Mobile Development", "LLMs"],
-    passion: "Creating intelligent, user-centered, and beautiful mobile apps",
-    currentFocus: ["AI Model Integration", "Speech APIs", "LLM-based Assistants"],
-    location: "Tunisia 🌍",
-    languages: ["English", "French", "Arabic"]
-};
+```swift
+struct AmiraGharbi {
+    let title     = "Computer Science Engineer 🎓"
+    let degree    = "National Engineering Degree — ESPRIT, Tunisia 🇹🇳 (2025–2026)"
+    let now       = "Studying @ Philipps University of Marburg 🇩🇪"
+    let location  = "Marburg, Germany"
+
+    let buildsWith = ["Swift", "Flutter", "TypeScript", "AI APIs"]
+    let loves      = ["Mobile apps with AI inside", "Clean UX", "FinTech"]
+
+    let languages = [
+        ("Arabic",  "Native"),
+        ("French",  "B2"),
+        ("English", "Fluent"),
+        ("German",  "A1 — learning every day! 📚")
+    ]
+
+    var journey: String { "🇹🇳 Tunisia → 🇪🇬 Egypt → 🇩🇪 Germany" }
+}
 ```
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Graduation Project — AI in Banking
 
-### 💡 Mobile Developer Intern | **IITSpark** 🇪🇬
-**Jul 2025 - Oct 2025** | *Remote*
+<table>
+<tr>
+<td width="36%" align="center" valign="middle">
+  <img src="assets/graduation.png" width="240" alt="Graduation project cover" />
+</td>
+<td width="64%" valign="top">
 
-🛍️ **eMart** - AI-powered mobile app generating personalized e-commerce stores
-- Implemented MVVM architecture with Flutter for scalable codebase
-- Built RESTful APIs using Node.js & TypeScript
-- Integrated Azure DB & Firebase for real-time data sync
-- Set up CI/CD pipelines for automated deployments
+### Digital Development and Integration of Artificial Intelligence Solutions into Banking Applications
 
-**Tech Stack:** `Flutter` `Node.js` `TypeScript` `Azure DB` `Firebase` `CI/CD`
+🏛️ **ESPRIT** — National Engineering Degree, Computer Science (2025–2026)
+🏢 **Value** — Lac 1, Tunis 🇹🇳 · On-site · Jan – Jul 2026
+📱 **Role:** Mobile iOS Developer Intern | AI-Powered Banking Applications
+
+🏦 Enhancing the **MyBiat Retail** app as an iOS developer, built on the **Backbase** platform
+🚀 Completed the **Backbase Launchpad** — 20 modules on Journeys, UI and business logic
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Backbase-1A1F71?style=flat-square" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/UX_Design-7B2FF7?style=flat-square" />
+<img src="https://img.shields.io/badge/FinTech-00D9FF?style=flat-square" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎨 Frontend Developer Intern | **ExypnoTech** 🇹🇳
-**Jul 2024 - Aug 2024**
+## 🌱 Right Now
 
-- Enhanced frontend performance and UI/UX design
-- Collaborated with design team using Figma
-- Implemented responsive components with React
-
-**Tech Stack:** `React` `Firebase` `Figma`
+- 🎓 Studying at **Philipps University of Marburg** in Germany
+- 🇩🇪 Learning German (**A1**) — step by step!
+- 🧠 Putting my **NVIDIA Deep Learning** training into practice
+- 🤝 Open to collaboration opportunities
 
 ---
 
-### 🤖 AI Developer Intern | **PROXYM-IT** 🇹🇳
-**Jul 2023 - Aug 2023**
+## 💼 Experience
 
-- Designed and integrated an **AI chatbot** for banking applications
-- Implemented conversational AI with natural language processing
-- Connected chatbot to Firebase backend for real-time responses
+<details open>
+<summary><b>📱 iOS Developer Intern</b> @ <b>Value</b> &nbsp;·&nbsp; Jan – Jul 2026 &nbsp;·&nbsp; Lac 1, Tunis 🇹🇳 · On-site</summary>
+<br>
 
-**Tech Stack:** `React` `Firebase` `AI API`
+Graduation internship — AI-powered banking applications.
+
+- Working as an iOS developer on the **MyBiat Retail** banking app
+- Completed the **Backbase Launchpad** training (20 modules: Journeys, UI, business logic)
+- Focus on iOS design and user experience
+
+`Swift` `iOS` `Backbase` `Postman` `UX`
+</details>
+
+<details>
+<summary><b>💙 Flutter Developer Intern</b> @ <b>ITSpark</b> &nbsp;·&nbsp; Jul 2025 – Jul 2026 &nbsp;·&nbsp; Alexandria, Egypt 🇪🇬 · Hybrid</summary>
+<br>
+
+Worked on two projects: **eMart** and **EgyCoPt**.
+
+- **eMart** — one codebase that powers many online stores (see projects below)
+- **EgyCoPt** — event discovery and booking app
+- Figma UI/UX, Flutter mobile app, TypeScript backend, Azure data layer
+
+`Flutter` `TypeScript` `Azure` `Firebase` `Figma`
+</details>
+
+<details>
+<summary><b>🐟 Mobile Developer Intern</b> @ <b>ExypnoTech</b> &nbsp;·&nbsp; Jun – Aug 2024 &nbsp;·&nbsp; Tunisia 🇹🇳 · Hybrid</summary>
+<br>
+
+Built a mobile application for managing fish crates for fishermen.
+
+- Flutter front-end with an Express.js back-end and MongoDB database
+- UI/UX designed in Figma for an intuitive, user-friendly experience
+
+`Flutter` `Express.js` `MongoDB` `Figma`
+</details>
+
+<details>
+<summary><b>🍽️ AI Restaurant App — Academic Project</b> @ <b>ESPRIT</b> &nbsp;·&nbsp; Oct 2023 – May 2024 &nbsp;·&nbsp; Tunisia 🇹🇳</summary>
+<br>
+
+Hybrid desktop/web application (**ChoubikLoubik** — 🏆 Top 2 Winner).
+
+- Symfony + JavaFX for seamless interaction between interfaces
+- AI integration to optimize order management and customer service
+
+`Symfony` `JavaFX` `Firebase` `Unity (VR)` `AI API`
+</details>
+
+<details>
+<summary><b>🤖 AI Developer Intern</b> @ <b>Proxym</b> &nbsp;·&nbsp; Jul – Aug 2023 &nbsp;·&nbsp; Tunisia 🇹🇳 · Hybrid</summary>
+<br>
+
+Developed an intelligent banking chatbot as a mobile application.
+
+- Conversational AI with natural language processing
+- Firebase backend for real-time responses
+
+`React` `Firebase` `AI API`
+</details>
 
 ---
 
@@ -76,58 +157,80 @@ const amira = {
 
 <table>
 <tr>
-<td width="50%">
+<td colspan="2" align="center">
 
-### 🛍️ eMart
-**AI-Powered Store Generator**
+### 🛍️ eMart — *One Code, Endless Stores!* 🚀
+**Built at ITSpark, Alexandria 🇪🇬**
 
-AI mobile app that creates personalized e-commerce stores using machine learning algorithms.
+A modern e-commerce platform to create and manage **multiple online stores from a single codebase** — fast, flexible and beautifully built.
 
-**Tech:** Flutter (MVVM), Node.js, TypeScript, Azure DB, Firebase, CI/CD
+🎨 Figma UI/UX &nbsp;·&nbsp; 📱 Flutter app &nbsp;·&nbsp; ⚙️ TypeScript APIs &nbsp;·&nbsp; ☁️ Azure Data Studio &nbsp;·&nbsp; 🛠️ Modular multi-store architecture
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎫 EgyCoPt
 **Event Booking Platform**
 
-Mobile application for discovering and booking Christian events across Egypt.
+A mobile app for discovering and booking Christian events across Egypt.
 
-**Tech:** Flutter (MVVM), Firebase, Azure DB, Figma
+`Flutter (MVVM)` `Firebase` `Azure` `Figma`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐟 Fish Crate Manager
+**Mobile App for Fishermen**
+
+Helps fishermen manage and track their fish crates.
+
+`Flutter` `Express.js` `MongoDB` `Figma`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🍽️ ChoubikLoubik — 🏆 Top 2
+**AI Restaurant System**
+
+Voice interaction, an intelligent chatbot, and a VR training module for staff.
+
+`Symfony` `JavaFX` `Firebase` `Unity (VR)` `AI API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Banking Chatbot
+**AI Assistant for Banking**
+
+A conversational mobile assistant built during my internship at Proxym.
+
+`React` `Firebase` `AI API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧩 AlzMind
 **AI Companion for Alzheimer's**
 
-Comprehensive care solution with 3D avatar, voice assistant, GPS tracking, and caregiver communication.
+A 3D avatar, voice assistant, GPS tracking and caregiver communication.
 
-**Tech:** Flutter, TypeScript, MongoDB, Firebase, AI API
+`Flutter` `TypeScript` `MongoDB` `Firebase` `AI API`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💞 Cosmia
 **Astrology-Based Dating App**
 
-Dating platform with secure authentication, facial recognition, and real-time matching.
+Secure authentication, facial recognition and real-time matching.
 
-**Tech:** Flutter, iOS, Android, MongoDB, Firebase, AI API
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🍽️ ChoubikLoubik - **🏆 Top 2 Winner**
-**AI Restaurant Reservation System**
-
-Innovative platform with voice interaction, intelligent chatbot, and VR training module for staff.
-
-**Tech:** Symfony, XAMPP, Firebase, Unity (VR), AI API
+`Flutter` `iOS` `Android` `MongoDB` `Firebase` `AI API`
 
 </td>
 </tr>
@@ -137,69 +240,65 @@ Innovative platform with voice interaction, intelligent chatbot, and VR training
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
 
-### 🧩 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+**📱 Mobile**<br>
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,react" />
 
-### 🗃️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**💻 Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" />
 
-### 🧰 DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**⚙️ Backend & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,spring,symfony" />
+
+**☁️ Databases & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,azure" />
+
+**🧰 Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,gitlab,figma,postman,unity" />
+
+</div>
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Degrees, Certifications & Training
 
-🏅 **NVIDIA Deep Learning** - *In Progress*  
-🏅 **GoMyCode Deep Learning** - *In Progress*  
-🏅 **French B1 & B2** - Institut Français de Tunisie
+| | Program | Provider | Status |
+|:---:|:---|:---|:---|
+| 🎓 | National Engineering Degree — Computer Science | ESPRIT | 2025–2026 |
+| 🏦 | Backbase Launchpad (20 modules) | Value | ✅ Completed |
+| 🟢 | NVIDIA Deep Learning Certification Preparation | GoMyCode | ✅ Completed · Oct 2025 – Mar 2026 |
+| 🇫🇷 | French B1 & B2 | Institut Français de Tunisie | ✅ Completed |
+| 🇩🇪 | German | — | 📚 Learning · A1 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amiragharb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiragharb&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amiragharb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiragharb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=amiragharb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiragharb&theme=tokyonight" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amiragharb/amiragharb/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amiragharb/amiragharb/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/amiragharb/amiragharb/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Thanks for stopping by! 💙
+*Let's build smart, beautiful apps together.*
 
----
+<img src="https://komarev.com/ghpvc/?username=amiragharb&color=00D9FF&style=for-the-badge" />
 
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=amiragharb&color=00D9FF&style=for-the-badge)
-
----
-
-⭐️ **From [Amira Gharbi](https://github.com/amiragharb)** | 💌 Open to collaboration opportunities!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E70013,50:7B2FF7,100:00D9FF&height=120&section=footer" width="100%" />
 
 </div>
