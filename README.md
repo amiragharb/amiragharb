@@ -291,7 +291,7 @@ Secure authentication, facial recognition and real-time matching.
 | ☁️ | **AWS Academy Graduate** · AWS Academy | ✅ |
 | 🤝 | **Leadership Development** · [AIESEC](https://www.linkedin.com/company/aiesec/) | ✅ |
 | 🎨 | **Generative AI with Diffusion Models** · [NVIDIA](https://www.linkedin.com/company/nvidia/) | ✅ |
-| 🔗 | **Hashgraph Developer** · [The Hashgraph Association](https://www.linkedin.com/company/the-hashgraph-association/) | 🎟️ Attendance |
+| 🔗 | **Hashgraph Developer** · [The Hashgraph Association](https://www.linkedin.com/company/the-hashgraph-association/) | ✅ |
 ---
 
 ## 📊 Travel Log
