@@ -4,7 +4,9 @@
 
 **Computer Science Engineer · iOS · Flutter · AI**<br>
 <sub>From Tunisia 🇹🇳 &nbsp;→&nbsp; via Egypt 🇪🇬 &nbsp;→&nbsp; now in Germany 🇩🇪</sub>
-
+<div align="center">
+  <img src="globe.svg" width="100%" alt="Rotating globe with a plane flying Tunis → Alexandria → Marburg" />
+</div>
 </div>
 
 ```text
