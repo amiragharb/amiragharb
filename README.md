@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FF7,100:E70013&height=230&section=header&text=Amira%20Gharbi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineer%20%E2%80%A2%20iOS%20%C2%B7%20Flutter%20%C2%B7%20AI&descAlignY=57&descSize=19" width="100%" />
+# ✈️ Amira Gharbi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Amira!;Computer+Science+Engineer;iOS+%26+Flutter+Developer;Bringing+AI+into+Banking+Apps;Tunisia+%E2%86%92+Egypt+%E2%86%92+Germany" alt="Typing SVG" />
+**Computer Science Engineer · iOS · Flutter · AI**<br>
+<sub>From Tunisia 🇹🇳 &nbsp;→&nbsp; via Egypt 🇪🇬 &nbsp;→&nbsp; now in Germany 🇩🇪</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/📍_Based_in-Marburg,_Germany_🇩🇪-7B2FF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_Studying_at-Philipps_University_of_Marburg-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_From-Tunisia_🇹🇳-E70013?style=for-the-badge" />
-</p>
+</div>
 
-<p>
-  <a href="mailto:amira.gharbi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/amira-gharbi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/amiragharb"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+```text
+┌────────────────────────────────────────────────────────┬──────────────────────┐
+│  BOARDING PASS                         FLIGHT AG 2026  │  || ||| | |||| || |  │
+├────────────────────────────────────────────────────────┼──────────────────────┤
+│                                                        │                      │
+│  PASSENGER               CLASS                         │  PASSENGER           │
+│  GHARBI / AMIRA          COMPUTER SCIENCE ENGINEER     │  AMIRA G.            │
+│                                                        │                      │
+│  TUN - - - - - - - -  ALX - - - - - - - - - > MBG      │  TUN  ->  MBG        │
+│  Tunis             Alexandria                Marburg   │                      │
+│                                                        │                      │
+│  SPECIALTY             GATE              STATUS        │  SEAT      YEAR      │
+│  iOS, FLUTTER, AI      UNI MARBURG       BOARDED       │  iOS       2026      │
+│                                                        │                      │
+└────────────────────────────────────────────────────────┴──────────────────────┘
+```
+
+<div align="center">
+
+<a href="mailto:amira.gharbi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amira-gharbi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/amiragharb"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <sub>🎓 National Engineering Degree 2026 &nbsp;•&nbsp; 🏦 Backbase Launchpad ✅ &nbsp;•&nbsp; 🟢 NVIDIA Deep Learning Prep ✅ &nbsp;•&nbsp; 🏆 Top 2 — ChoubikLoubik</sub>
 
@@ -22,28 +36,39 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🛂 My Passport
 
-```swift
-struct AmiraGharbi {
-    let title     = "Computer Science Engineer 🎓"
-    let degree    = "National Engineering Degree — ESPRIT, Tunisia 🇹🇳 (2025–2026)"
-    let now       = "Studying @ Philipps University of Marburg 🇩🇪"
-    let location  = "Marburg, Germany"
-
-    let buildsWith = ["Swift", "Flutter", "TypeScript", "AI APIs"]
-    let loves      = ["Mobile apps with AI inside", "Clean UX", "FinTech"]
-
-    let languages = [
-        ("Arabic",  "Native"),
-        ("French",  "B2"),
-        ("English", "Fluent"),
-        ("German",  "A1 — learning every day! 📚")
-    ]
-
-    var journey: String { "🇹🇳 Tunisia → 🇪🇬 Egypt → 🇩🇪 Germany" }
-}
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  DEVELOPER PASSPORT                              TYPE: ENGINEER      │
+│                                                                      │
+│   ┌────────────┐    SURNAME           GIVEN NAME                     │
+│   │            │    GHARBI            AMIRA                          │
+│   │    A  G    │                                                     │
+│   │            │    PROFESSION                                       │
+│   │   \____/   │    COMPUTER SCIENCE ENGINEER                        │
+│   │            │                                                     │
+│   └────────────┘    FROM              NOW LIVING IN                  │
+│                     TUNISIA           MARBURG, GERMANY               │
+│                                                                      │
+│   DEGREE            NATIONAL ENGINEERING DEGREE, ESPRIT 2026         │
+│   BUILDS            iOS (SWIFT), FLUTTER, AI-POWERED APPS            │
+│   LANGUAGES         ARABIC (NATIVE), FRENCH (B2),                    │
+│                     ENGLISH (FLUENT), GERMAN (A1)                    │
+│                                                                      │
+│  P<TUNGHARBI<<AMIRA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  │
+│  CSENGINEER<<IOS<FLUTTER<AI<<ESPRIT2026<<MARBURG<<<<<<<<<<<<<<<<<<<  │
+└──────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 📍 Current Location
+
+- 🎓 Studying at **Philipps University of Marburg** in Germany
+- 🇩🇪 Learning German (**A1**), step by step
+- 🧠 Putting my **NVIDIA Deep Learning** training into practice
+- 🤝 Open to collaboration opportunities
 
 ---
 
@@ -58,11 +83,11 @@ struct AmiraGharbi {
 
 ### Digital Development and Integration of Artificial Intelligence Solutions into Banking Applications
 
-🏛️ **ESPRIT** — National Engineering Degree, Computer Science (2025–2026)
-🏢 **Value** — Lac 1, Tunis 🇹🇳 · On-site · Jan – Jul 2026
+🏛️ **ESPRIT** — National Engineering Degree, Computer Science (2025–2026)<br>
+🏢 **Value** — Lac 1, Tunis 🇹🇳 · On-site · Jan – Jul 2026<br>
 📱 **Role:** Mobile iOS Developer Intern | AI-Powered Banking Applications
 
-🏦 Enhancing the **MyBiat Retail** app as an iOS developer, built on the **Backbase** platform
+🏦 Enhancing the **MyBiat Retail** app as an iOS developer, built on the **Backbase** platform<br>
 🚀 Completed the **Backbase Launchpad** — 20 modules on Journeys, UI and business logic
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
@@ -78,22 +103,15 @@ struct AmiraGharbi {
 
 ---
 
-## 🌱 Right Now
+## 🛃 Passport Stamps
 
-- 🎓 Studying at **Philipps University of Marburg** in Germany
-- 🇩🇪 Learning German (**A1**) — step by step!
-- 🧠 Putting my **NVIDIA Deep Learning** training into practice
-- 🤝 Open to collaboration opportunities
-
----
-
-## 💼 Experience
+<sub>Every stamp is a place where I worked and learned. Tap one to open it.</sub>
 
 <details open>
-<summary><b>📱 iOS Developer Intern</b> @ <b>Value</b> &nbsp;·&nbsp; Jan – Jul 2026 &nbsp;·&nbsp; Lac 1, Tunis 🇹🇳 · On-site</summary>
+<summary>🛂 <b>VALUE</b> &nbsp;·&nbsp; Tunis, Tunisia 🇹🇳 &nbsp;·&nbsp; Jan – Jul 2026 &nbsp;·&nbsp; <i>iOS Developer Intern</i></summary>
 <br>
 
-Graduation internship — AI-powered banking applications.
+Graduation internship — AI-powered banking applications. On-site.
 
 - Working as an iOS developer on the **MyBiat Retail** banking app
 - Completed the **Backbase Launchpad** training (20 modules: Journeys, UI, business logic)
@@ -103,12 +121,12 @@ Graduation internship — AI-powered banking applications.
 </details>
 
 <details>
-<summary><b>💙 Flutter Developer Intern</b> @ <b>ITSpark</b> &nbsp;·&nbsp; Jul 2025 – Jul 2026 &nbsp;·&nbsp; Alexandria, Egypt 🇪🇬 · Hybrid</summary>
+<summary>🛂 <b>ITSPARK</b> &nbsp;·&nbsp; Alexandria, Egypt 🇪🇬 &nbsp;·&nbsp; Jul 2025 – Jul 2026 &nbsp;·&nbsp; <i>Flutter Developer Intern</i></summary>
 <br>
 
-Worked on two projects: **eMart** and **EgyCoPt**.
+Hybrid. Worked on two projects: **eMart** and **EgyCoPt**.
 
-- **eMart** — one codebase that powers many online stores (see projects below)
+- **eMart** — one codebase that powers many online stores
 - **EgyCoPt** — event discovery and booking app
 - Figma UI/UX, Flutter mobile app, TypeScript backend, Azure data layer
 
@@ -116,10 +134,10 @@ Worked on two projects: **eMart** and **EgyCoPt**.
 </details>
 
 <details>
-<summary><b>🐟 Mobile Developer Intern</b> @ <b>ExypnoTech</b> &nbsp;·&nbsp; Jun – Aug 2024 &nbsp;·&nbsp; Tunisia 🇹🇳 · Hybrid</summary>
+<summary>🛂 <b>EXYPNOTECH</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Jun – Aug 2024 &nbsp;·&nbsp; <i>Mobile Developer Intern</i></summary>
 <br>
 
-Built a mobile application for managing fish crates for fishermen.
+Hybrid. Built a mobile application for managing fish crates for fishermen.
 
 - Flutter front-end with an Express.js back-end and MongoDB database
 - UI/UX designed in Figma for an intuitive, user-friendly experience
@@ -128,7 +146,7 @@ Built a mobile application for managing fish crates for fishermen.
 </details>
 
 <details>
-<summary><b>🍽️ AI Restaurant App — Academic Project</b> @ <b>ESPRIT</b> &nbsp;·&nbsp; Oct 2023 – May 2024 &nbsp;·&nbsp; Tunisia 🇹🇳</summary>
+<summary>🛂 <b>ESPRIT</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Oct 2023 – May 2024 &nbsp;·&nbsp; <i>Academic Project</i></summary>
 <br>
 
 Hybrid desktop/web application (**ChoubikLoubik** — 🏆 Top 2 Winner).
@@ -140,10 +158,10 @@ Hybrid desktop/web application (**ChoubikLoubik** — 🏆 Top 2 Winner).
 </details>
 
 <details>
-<summary><b>🤖 AI Developer Intern</b> @ <b>Proxym</b> &nbsp;·&nbsp; Jul – Aug 2023 &nbsp;·&nbsp; Tunisia 🇹🇳 · Hybrid</summary>
+<summary>🛂 <b>PROXYM</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Jul – Aug 2023 &nbsp;·&nbsp; <i>AI Developer Intern</i></summary>
 <br>
 
-Developed an intelligent banking chatbot as a mobile application.
+Hybrid. Developed an intelligent banking chatbot as a mobile application.
 
 - Conversational AI with natural language processing
 - Firebase backend for real-time responses
@@ -153,7 +171,7 @@ Developed an intelligent banking chatbot as a mobile application.
 
 ---
 
-## 🧠 Featured Projects
+## 🧳 Built Along the Way
 
 <table>
 <tr>
@@ -238,7 +256,7 @@ Secure authentication, facial recognition and real-time matching.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎒 Packed in My Suitcase
 
 <div align="center">
 
@@ -261,7 +279,7 @@ Secure authentication, facial recognition and real-time matching.
 
 ---
 
-## 📜 Degrees, Certifications & Training
+## 📜 Certificates & Visas
 
 | | Program | Provider | Status |
 |:---:|:---|:---|:---|
@@ -273,7 +291,7 @@ Secure authentication, facial recognition and real-time matching.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Travel Log
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amiragharb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -294,11 +312,9 @@ Secure authentication, facial recognition and real-time matching.
 
 <div align="center">
 
-### Thanks for stopping by! 💙
+### 🌍 Next destination: your project?
 *Let's build smart, beautiful apps together.*
 
-<img src="https://komarev.com/ghpvc/?username=amiragharb&color=00D9FF&style=for-the-badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E70013,50:7B2FF7,100:00D9FF&height=120&section=footer" width="100%" />
+[LinkedIn](https://www.linkedin.com/in/amira-gharbi/) &nbsp;·&nbsp; [Email](mailto:amira.gharbi@esprit.tn) &nbsp;·&nbsp; [GitHub](https://github.com/amiragharb)
 
 </div>
