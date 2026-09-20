@@ -52,9 +52,9 @@
 │                     TUNISIA           MARBURG, GERMANY               │
 │                                                                      │
 │   DEGREE            NATIONAL ENGINEERING DEGREE, ESPRIT 2026         │
-│   BUILDS            iOS (SWIFT), FLUTTER, AI-POWERED APPS            │
+│   BUILDS            iOS (SWIFT),ANDROID, FLUTTER, AI-POWERED APPS ,           │
 │   LANGUAGES         ARABIC (NATIVE), FRENCH (B2),                    │
-│                     ENGLISH (FLUENT), GERMAN (A1)                    │
+│                     ENGLISH (B2), GERMAN (A1)                    │
 │                                                                      │
 │  P<TUNGHARBI<<AMIRA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  │
 │  CSENGINEER<<IOS<FLUTTER<AI<<ESPRIT2026<<MARBURG<<<<<<<<<<<<<<<<<<<  │
@@ -88,7 +88,7 @@
 📱 **Role:** Mobile iOS Developer Intern | AI-Powered Banking Applications
 
 🏦 Enhancing the **MyBiat Retail** app as an iOS developer, built on the **Backbase** platform<br>
-🚀 Completed the **Backbase Launchpad** — 20 modules on Journeys, UI and business logic
+🚀 Completed the **Backbase Launchpad** — 20 modules on Journeys, UI and business logic, Integration of Artificial Intelligence Solutions
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
@@ -116,6 +116,7 @@ Graduation internship — AI-powered banking applications. On-site.
 - Working as an iOS developer on the **MyBiat Retail** banking app
 - Completed the **Backbase Launchpad** training (20 modules: Journeys, UI, business logic)
 - Focus on iOS design and user experience
+- Integration of Artificial Intelligence Solutions
 
 `Swift` `iOS` `Backbase` `Postman` `UX`
 </details>
