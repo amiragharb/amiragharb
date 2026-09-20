@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero.svg" width="100%" alt="Amira Gharbi — Computer Science Engineer (iOS, Flutter, AI). From Tunis via Alexandria, now in Marburg." />
+  <img src="hero (1).svg" width="100%" alt="Amira Gharbi — Computer Science Engineer (iOS, Flutter, AI). From Tunis via Alexandria, now in Marburg." />
 </div>
 
 ```text
