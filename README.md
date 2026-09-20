@@ -35,8 +35,8 @@
 
 <table>
 <tr>
-<td width="36%" align="center" valign="middle">
-  <img src="graduation-banner.png" width="240" alt="Graduation project cover" />
+<td width="38%" align="center" valign="middle">
+  <img src="graduation-banner.png" width="400" alt="Graduation project cover" />
 </td>
 <td width="64%" valign="top">
 
@@ -258,18 +258,13 @@ Secure authentication, facial recognition and real-time matching.
 ## 📊 Travel Log
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amiragharb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiragharb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  
+ 
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=amiragharb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amiragharb/amiragharb/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amiragharb/amiragharb/output/github-snake.svg" />
-  </picture>
-</div>
+
 
 ---
 
