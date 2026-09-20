@@ -281,14 +281,17 @@ Secure authentication, facial recognition and real-time matching.
 
 ## 📜 Certificates & Visas
 
-| | Program | Provider | Status |
-|:---:|:---|:---|:---|
-| 🎓 | National Engineering Degree — Computer Science | ESPRIT | 2025–2026 |
-| 🏦 | Backbase Launchpad (20 modules) | Value | ✅ Completed |
-| 🟢 | NVIDIA Deep Learning Certification Preparation | GoMyCode | ✅ Completed · Oct 2025 – Mar 2026 |
-| 🇫🇷 | French B1 & B2 | Institut Français de Tunisie | ✅ Completed |
-| 🇩🇪 | German | — | 📚 Learning · A1 |
-
+| | Certification | Status |
+|:---:|:---|:---:|
+| 🇬🇧 | **IELTS** · English — level **B2** | ✅ |
+| 🇫🇷 | **TCF TP** · French — level **B2** | ✅ |
+| 🧠 | **Certified in Deep Learning** · [NVIDIA](https://www.linkedin.com/company/nvidia/) through [GOMYCODE](https://www.linkedin.com/company/gomycode/) | ✅ |
+| 🌐 | **Cisco Networking Academy** · [Cisco](https://www.linkedin.com/company/cisco/) | ✅ |
+| 🛠️ | **Applications of AI for Predictive Maintenance** · [NVIDIA](https://www.linkedin.com/company/nvidia/) | ✅ |
+| ☁️ | **AWS Academy Graduate** · AWS Academy | ✅ |
+| 🤝 | **Leadership Development** · [AIESEC](https://www.linkedin.com/company/aiesec/) | ✅ |
+| 🎨 | **Generative AI with Diffusion Models** · [NVIDIA](https://www.linkedin.com/company/nvidia/) | ✅ |
+| 🔗 | **Hashgraph Developer** · [The Hashgraph Association](https://www.linkedin.com/company/the-hashgraph-association/) | 🎟️ Attendance |
 ---
 
 ## 📊 Travel Log
