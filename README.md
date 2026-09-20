@@ -52,9 +52,9 @@
 │                     TUNISIA           MARBURG, GERMANY               │
 │                                                                      │
 │   DEGREE            NATIONAL ENGINEERING DEGREE, ESPRIT 2026         │
-│   BUILDS            iOS (SWIFT),ANDROID, FLUTTER, AI-POWERED APPS ,           │
+│   BUILDS            iOS (SWIFT),ANDROID, FLUTTER, AI-POWERED APPS ,  │
 │   LANGUAGES         ARABIC (NATIVE), FRENCH (B2),                    │
-│                     ENGLISH (B2), GERMAN (A1)                    │
+│                     ENGLISH (B2), GERMAN (A1)                        │
 │                                                                      │
 │  P<TUNGHARBI<<AMIRA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  │
 │  CSENGINEER<<IOS<FLUTTER<AI<<ESPRIT2026<<MARBURG<<<<<<<<<<<<<<<<<<<  │
@@ -67,7 +67,6 @@
 
 - 🎓 Studying at **Philipps University of Marburg** in Germany
 - 🇩🇪 Learning German (**A1**), step by step
-- 🧠 Putting my **NVIDIA Deep Learning** training into practice
 - 🤝 Open to collaboration opportunities
 
 ---
@@ -77,7 +76,7 @@
 <table>
 <tr>
 <td width="36%" align="center" valign="middle">
-  <img src="assets/graduation.png" width="240" alt="Graduation project cover" />
+  <img src="graduation-banner.png" width="240" alt="Graduation project cover" />
 </td>
 <td width="64%" valign="top">
 
