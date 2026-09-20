@@ -2,28 +2,12 @@
   <img src="hero (1).svg" width="100%" alt="Amira Gharbi — Computer Science Engineer (iOS, Flutter, AI). From Tunis via Alexandria, now in Marburg." />
 </div>
 
-```text
-┌────────────────────────────────────────────────────────┬──────────────────────┐
-│  BOARDING PASS                         FLIGHT AG 2026  │  || ||| | |||| || |  │
-├────────────────────────────────────────────────────────┼──────────────────────┤
-│                                                        │                      │
-│  PASSENGER               CLASS                         │  PASSENGER           │
-│  GHARBI / AMIRA          COMPUTER SCIENCE ENGINEER     │  AMIRA G.            │
-│                                                        │                      │
-│  TUN - - - - - - - -  ALX - - - - - - - - - > MBG      │  TUN  ->  MBG        │
-│  Tunis             Alexandria                Marburg   │                      │
-│                                                        │                      │
-│  SPECIALTY             GATE              STATUS        │  SEAT      YEAR      │
-│  iOS, FLUTTER, AI      UNI MARBURG       BOARDED       │  iOS       2026      │
-│                                                        │                      │
-└────────────────────────────────────────────────────────┴──────────────────────┘
-```
 
 <div align="center">
 
-<a href="mailto:amira.gharbi@esprit.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amira-gharbi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/amiragharb"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:amira.gharbi@esprit.tn"><img src="https://img.shields.io/badge/Email-1B2040?style=for-the-badge&logo=gmail&logoColor=C4B5FD" /></a>
+<a href="https://www.linkedin.com/in/amira-gharbi/"><img src="https://img.shields.io/badge/LinkedIn-1B2040?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
+<a href="https://github.com/amiragharb"><img src="https://img.shields.io/badge/GitHub-1B2040?style=for-the-badge&logo=github&logoColor=F5F6FF" /></a>
 
 <sub>🎓 National Engineering Degree 2026 &nbsp;•&nbsp; 🏦 Backbase Launchpad ✅ &nbsp;•&nbsp; 🟢 NVIDIA Deep Learning Prep ✅ &nbsp;•&nbsp; 🏆 Top 2 — ChoubikLoubik</sub>
 
@@ -33,28 +17,9 @@
 
 ## 🛂 My Passport
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  DEVELOPER PASSPORT                              TYPE: ENGINEER      │
-│                                                                      │
-│   ┌────────────┐    SURNAME           GIVEN NAME                     │
-│   │            │    GHARBI            AMIRA                          │
-│   │    A  G    │                                                     │
-│   │            │    PROFESSION                                       │
-│   │   \____/   │    COMPUTER SCIENCE ENGINEER                        │
-│   │            │                                                     │
-│   └────────────┘    FROM              NOW LIVING IN                  │
-│                     TUNISIA           MARBURG, GERMANY               │
-│                                                                      │
-│   DEGREE            NATIONAL ENGINEERING DEGREE, ESPRIT 2026         │
-│   BUILDS            iOS (SWIFT),ANDROID, FLUTTER, AI-POWERED APPS ,  │
-│   LANGUAGES         ARABIC (NATIVE), FRENCH (B2),                    │
-│                     ENGLISH (B2), GERMAN (A1)                        │
-│                                                                      │
-│  P<TUNGHARBI<<AMIRA<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  │
-│  CSENGINEER<<IOS<FLUTTER<AI<<ESPRIT2026<<MARBURG<<<<<<<<<<<<<<<<<<<  │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="passport-card.svg" width="100%" alt="Developer passport for Amira Gharbi, Computer Science Engineer, from Tunisia now living in Marburg, Germany" />
+</div>
 
 ---
 
@@ -84,12 +49,12 @@
 🏦 Enhancing the **MyBiat Retail** app as an iOS developer, built on the **Backbase** platform<br>
 🚀 Completed the **Backbase Launchpad** — 20 modules on Journeys, UI and business logic, Integration of Artificial Intelligence Solutions
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Backbase-1A1F71?style=flat-square" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/UX_Design-7B2FF7?style=flat-square" />
-<img src="https://img.shields.io/badge/FinTech-00D9FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Swift-1B2040?style=flat-square&logo=swift&logoColor=FA7343" />
+<img src="https://img.shields.io/badge/iOS-1B2040?style=flat-square&logo=apple&logoColor=F5F6FF" />
+<img src="https://img.shields.io/badge/Backbase-1B2040?style=flat-square&logoColor=A78BFA&color=1B2040" />
+<img src="https://img.shields.io/badge/Postman-1B2040?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/UX_Design-1B2040?style=flat-square&color=1B2040&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/FinTech-1B2040?style=flat-square&color=1B2040&logoColor=2DD4BF" />
 
 </td>
 </tr>
@@ -287,6 +252,7 @@ Secure authentication, facial recognition and real-time matching.
 | 🤝 | **Leadership Development** · [AIESEC](https://www.linkedin.com/company/aiesec/) | ✅ |
 | 🎨 | **Generative AI with Diffusion Models** · [NVIDIA](https://www.linkedin.com/company/nvidia/) | ✅ |
 | 🔗 | **Hashgraph Developer** · [The Hashgraph Association](https://www.linkedin.com/company/the-hashgraph-association/) | ✅ |
+
 ---
 
 ## 📊 Travel Log
