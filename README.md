@@ -42,12 +42,12 @@
 
 ### Digital Development and Integration of Artificial Intelligence Solutions into Banking Applications
 
-🏛️ **ESPRIT** — National Engineering Degree, Computer Science (2025–2026)<br>
 🏢 **Value** — Lac 1, Tunis 🇹🇳 · On-site · Jan – Jul 2026<br>
 📱 **Role:** Mobile iOS Developer Intern | AI-Powered Banking Applications
 
-🏦 Enhancing the **MyBiat Retail** app as an iOS developer, built on the **Backbase** platform<br>
-🚀 Completed the **Backbase Launchpad** — 20 modules on Journeys, UI and business logic, Integration of Artificial Intelligence Solutions
+🏦 Contributed to the development and enhancement of the MyBiat Retail mobile application as an iOS Developer, built on the Backbase platform, with a focus on integrating AI-powered solutions.
+
+🚀 Successfully completed the Backbase Launchpad, covering 20 modules focused on Journeys, UI development, business logic, and AI solution integration.
 
 <img src="https://img.shields.io/badge/Swift-1B2040?style=flat-square&logo=swift&logoColor=FA7343" />
 <img src="https://img.shields.io/badge/iOS-1B2040?style=flat-square&logo=apple&logoColor=F5F6FF" />
@@ -66,69 +66,100 @@
 
 <sub>Every stamp is a place where I worked and learned. Tap one to open it.</sub>
 
-<details open>
 <summary>🛂 <b>VALUE</b> &nbsp;·&nbsp; Tunis, Tunisia 🇹🇳 &nbsp;·&nbsp; Jan – Jul 2026 &nbsp;·&nbsp; <i>iOS Developer Intern</i></summary>
 <br>
 
 Graduation internship — AI-powered banking applications. On-site.
 
-- Working as an iOS developer on the **MyBiat Retail** banking app
-- Completed the **Backbase Launchpad** training (20 modules: Journeys, UI, business logic)
-- Focus on iOS design and user experience
-- Integration of Artificial Intelligence Solutions
+Developed and enhanced the MyBiat Retail banking application as an iOS developer
 
-`Swift` `iOS` `Backbase` `Postman` `UX`
+Worked with the Backbase platform and completed the Backbase Launchpad training (20 modules covering Journeys, UI, and business logic)
+
+Contributed to the integration of three AI-powered banking features:
+
+💬 AI Chatbot — conversational assistance for banking-related interactions
+
+🎙️ Voice Banking — voice-based interaction with banking services
+
+🪪 AI-powered KYC — assistance with the Know Your Customer verification process
+
+Focused on iOS development, user experience, and seamless integration of AI capabilities into the banking application
+
+Swift iOS Backbase AI Chatbot Voice Banking KYC Postman UX
+
 </details>
+
 
 <details>
 <summary>🛂 <b>ITSPARK</b> &nbsp;·&nbsp; Alexandria, Egypt 🇪🇬 &nbsp;·&nbsp; Jul 2025 – Jul 2026 &nbsp;·&nbsp; <i>Flutter Developer Intern</i></summary>
 <br>
 
-Hybrid. Worked on two projects: **eMart** and **EgyCoPt**.
+Hybrid. Worked on two mobile applications: **eMart** and **EgyCoPt**.
 
-- **eMart** — one codebase that powers many online stores
-- **EgyCoPt** — event discovery and booking app
-- Figma UI/UX, Flutter mobile app, TypeScript backend, Azure data layer
+- 🛍️ **eMart** — Developed a scalable **multi-store e-commerce platform** using a single codebase, allowing businesses to create and manage multiple online stores
+  - Designed intuitive **UI/UX flows and interfaces** using Figma
+  - Developed the mobile application with **Flutter**
+  - Built and integrated **TypeScript APIs** for frontend–backend communication
+  - Worked with **Azure Data Studio** for data management
+  - Applied a **modular architecture** to support customization and multi-store deployment
 
-`Flutter` `TypeScript` `Azure` `Firebase` `Figma`
-</details>
+- 🎟️ **EgyCoPt** — Modernized and redesigned an existing application for **Christian events and appointment booking**
+  - Redesigned the application from an older version with a new and modern **UI/UX**
+  - Rebuilt and updated the **Flutter mobile application**
+  - Implemented user flows for discovering events and **booking appointments**
+  - Improved the overall user experience and application structure
+
+`Flutter` `Dart` `TypeScript` `Azure` `Firebase` `Figma` `UI/UX` `REST APIs`
 
 <details>
 <summary>🛂 <b>EXYPNOTECH</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Jun – Aug 2024 &nbsp;·&nbsp; <i>Mobile Developer Intern</i></summary>
 <br>
 
-Hybrid. Built a mobile application for managing fish crates for fishermen.
+Hybrid. Developed a mobile application for **managing fish crates and operations for fishermen**.
 
-- Flutter front-end with an Express.js back-end and MongoDB database
-- UI/UX designed in Figma for an intuitive, user-friendly experience
+- 🎨 Designed the application's **UI/UX from scratch using Figma**, focusing on intuitive navigation and a user-friendly experience
+- 📱 Developed the mobile application with **Flutter**, implementing the designed interfaces and core functionality
+- ⚙️ Built and integrated an **Express.js backend** with a **MongoDB database**
+- 🔄 Connected the Flutter application with backend services for efficient data management
 
-`Flutter` `Express.js` `MongoDB` `Figma`
-</details>
-
+`Flutter` `Dart` `Express.js` `MongoDB` `Figma` `UI/UX`
 <details>
-<summary>🛂 <b>ESPRIT</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Oct 2023 – May 2024 &nbsp;·&nbsp; <i>Academic Project</i></summary>
+<details>
+<summary>🛂 <b>ESPRIT</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Oct 2023 – May 2024 &nbsp;·&nbsp; <i>Academic Projects</i></summary>
 <br>
 
-Hybrid desktop/web application (**ChoubikLoubik** — 🏆 Top 2 Winner).
+Hybrid academic projects developed as part of the **Integrated Mobile Project (PIM)** at **ESPRIT**.
 
-- Symfony + JavaFX for seamless interaction between interfaces
-- AI integration to optimize order management and customer service
+- 🧠 **AlzMind** — AI-powered mobile application designed to support people with **Alzheimer’s disease and their caregivers**
+  - 📱 Cross-platform mobile application developed with **Flutter**
+  - 🤖 Integrated AI technologies including **OpenAI, Gemini, D-ID, HeyGen, and Ready Player Me**
+  - 🧠 Implemented personalized memory support, cognitive games, smart reminders, and **AI-based risk detection**
+  - 👁️ Integrated **YOLOv8 and TensorFlow Lite** for on-device object recognition
+  - 🎙️ Added **voice assistance** and AI-powered interactions through a 3D avatar
+  - ⌚ Integrated wearable devices for monitoring health-related data such as movement and sleep
+  - 💬 Implemented real-time communication between families and caregivers using **Firebase**
+  - ⚙️ Developed the backend with **NestJS** and **MongoDB**
 
-`Symfony` `JavaFX` `Firebase` `Unity (VR)` `AI API`
-</details>
+- 🏆 **ChoubikLoubik** — Desktop/web application and **Top 2 winning academic project**
+  - Developed with **Symfony** and **JavaFX**
+  - Integrated AI solutions to improve **order management and customer service**
+  - Used **Firebase** and AI APIs for application services
 
-<details>
+`Flutter` `Dart` `NestJS` `MongoDB` `Symfony` `JavaFX` `Firebase` `OpenAI` `Gemini` `YOLOv8` `TensorFlow Lite` `AI` `Unity (VR)`
+
+ <details>
 <summary>🛂 <b>PROXYM</b> &nbsp;·&nbsp; Tunisia 🇹🇳 &nbsp;·&nbsp; Jul – Aug 2023 &nbsp;·&nbsp; <i>AI Developer Intern</i></summary>
 <br>
 
-Hybrid. Developed an intelligent banking chatbot as a mobile application.
+Hybrid. Developed an **AI-powered banking chatbot** as a mobile application.
 
-- Conversational AI with natural language processing
-- Firebase backend for real-time responses
+- 🤖 Developed a conversational AI assistant designed to handle **banking-related questions and interactions**
+- 🧠 Integrated **Natural Language Processing (NLP)** to understand user requests and generate relevant responses
+- 📱 Developed the mobile application using **React**
+- 🔥 Integrated **Firebase** for backend services and real-time communication
+- 🔗 Connected the application with **AI APIs** to enable intelligent conversational capabilities
 
-`React` `Firebase` `AI API`
-</details>
-
+`React` `JavaScript` `Firebase` `NLP` `AI API` `Conversational AI`
 ---
 
 ## 🧳 Built Along the Way
