@@ -170,13 +170,13 @@ Hybrid. Developed an **AI-powered banking chatbot** as a mobile application.
 <tr>
 <td colspan="2" align="center">
 
-### 🛍️ eMart — *One Code, Endless Stores!* 🚀
+### 🛍️ eMart — <i>One Code, Endless Stores!</i> 🚀
 
-**Built at ITSpark, Alexandria 🇪🇬**
+<b>Built at ITSPARK, Alexandria 🇪🇬</b>
 
-A modern e-commerce platform to create and manage **multiple online stores from a single codebase** — fast, flexible and beautifully built.
+A modern e-commerce platform designed to create and manage <b>multiple online stores from a single codebase</b> — scalable, flexible, and modular.
 
-🎨 Figma UI/UX &nbsp;·&nbsp; 📱 Flutter app &nbsp;·&nbsp; ⚙️ TypeScript APIs &nbsp;·&nbsp; ☁️ Azure Data Studio &nbsp;·&nbsp; 🛠️ Modular multi-store architecture
+🎨 Figma UI/UX &nbsp;·&nbsp; 📱 Flutter app &nbsp;·&nbsp; ⚙️ TypeScript APIs &nbsp;·&nbsp; 🗄️ Azure Data Studio &nbsp;·&nbsp; 🛠️ Modular multi-store architecture
 
 </td>
 </tr>
@@ -188,7 +188,7 @@ A modern e-commerce platform to create and manage **multiple online stores from 
 
 **Event Booking Platform**
 
-A mobile app for discovering and booking Christian events across Egypt.
+A mobile app for discovering and booking Christian events across Egypt, with a focus on a simple and intuitive user experience.
 
 `Flutter (MVVM)` `Firebase` `Azure` `Figma`
 
@@ -200,7 +200,7 @@ A mobile app for discovering and booking Christian events across Egypt.
 
 **Mobile App for Fishermen**
 
-Helps fishermen manage and track their fish crates.
+A mobile application designed to help fishermen manage and track fish crates and related operations.
 
 `Flutter` `Express.js` `MongoDB` `Figma`
 
@@ -214,7 +214,7 @@ Helps fishermen manage and track their fish crates.
 
 **AI Restaurant System**
 
-Voice interaction, an intelligent chatbot, and a VR training module for staff.
+A winning academic project combining AI-powered customer interaction, voice features, intelligent chatbot functionality, and VR-based staff training.
 
 `Symfony` `JavaFX` `Firebase` `Unity (VR)` `AI API`
 
@@ -226,9 +226,9 @@ Voice interaction, an intelligent chatbot, and a VR training module for staff.
 
 **AI Assistant for Banking**
 
-A conversational mobile assistant built during my internship at Proxym.
+A conversational AI assistant developed during my internship at **PROXYM**, designed to help users with banking questions and interactions.
 
-`React` `Firebase` `AI API`
+`React` `Firebase` `AI API` `NLP`
 
 </td>
 </tr>
@@ -236,11 +236,11 @@ A conversational mobile assistant built during my internship at Proxym.
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 AlzMind
+### 🧠 AlzMind
 
 **AI Companion for Alzheimer's**
 
-A 3D avatar, voice assistant, GPS tracking and caregiver communication.
+An AI-powered mobile companion featuring a 3D avatar, voice assistant, GPS tracking, cognitive support, and caregiver communication.
 
 `Flutter` `TypeScript` `MongoDB` `Firebase` `AI API`
 
@@ -252,7 +252,7 @@ A 3D avatar, voice assistant, GPS tracking and caregiver communication.
 
 **Astrology-Based Dating App**
 
-Secure authentication, facial recognition and real-time matching.
+A mobile dating application combining astrology-based matching with secure authentication, facial recognition, and real-time interaction.
 
 `Flutter` `iOS` `Android` `MongoDB` `Firebase` `AI API`
 
@@ -260,6 +260,28 @@ Secure authentication, facial recognition and real-time matching.
 </tr>
 </table>
 
+---
+
+## 🎒 Packed in My Suitcase
+
+<div align="center">
+
+**📱 Mobile**<br>
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,react" />
+
+**💻 Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" />
+
+**⚙️ Backend & Frameworks**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,spring,symfony" />
+
+**☁️ Databases & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,azure" />
+
+**🧰 Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,gitlab,figma,postman,unity" />
+
+</div>
 ---
 
 ## 🎒 Packed in My Suitcase
