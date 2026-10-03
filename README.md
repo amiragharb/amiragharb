@@ -60,7 +60,6 @@ Contributed to the development and enhancement of the **MyBiat Retail** mobile b
 </tr>
 </table>
 
----
 
 ## 🛃 Passport Stamps
 
@@ -162,7 +161,6 @@ Hybrid. Developed an **AI-powered banking chatbot** as a mobile application.
 
 </details>
 
----
 
 ## 🧳 Built Along the Way
 
@@ -260,29 +258,6 @@ A mobile dating application combining astrology-based matching with secure authe
 </tr>
 </table>
 
----
-
-## 🎒 Packed in My Suitcase
-
-<div align="center">
-
-**📱 Mobile**<br>
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,react" />
-
-**💻 Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" />
-
-**⚙️ Backend & Frameworks**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,angular,spring,symfony" />
-
-**☁️ Databases & Cloud**<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,azure" />
-
-**🧰 Tools**<br>
-<img src="https://skillicons.dev/icons?i=docker,gitlab,figma,postman,unity" />
-
-</div>
----
 
 ## 🎒 Packed in My Suitcase
 
@@ -305,7 +280,7 @@ A mobile dating application combining astrology-based matching with secure authe
 
 </div>
 
----
+
 
 ## 📜 Certificates & Visas
 
